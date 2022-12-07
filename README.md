@@ -1,1 +1,2 @@
 # rsschool-cv
+https://hrn9.github.io/rsschool-cv/cv
