@@ -7,6 +7,15 @@
 ###About me
 I am studying the web development and in the future I will apply for the position of a frontend developer.
 
+###Skils
+- Git & Github.
+- HTML5
+- CSS3
+
+###Projects
+- This CV:
+https://hrn9.github.io/rsschool-cv/cv
+
 ###Code example
 ```javascript
 console.log('Hello, World!');
@@ -15,6 +24,6 @@ console.log('Hello, World!');
 ###Education and courses
 - «JavaScript/Front-end» from RS School.
 
-### Languages
+###Languages
 - Russian - Native
 - English - A2
