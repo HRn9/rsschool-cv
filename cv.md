@@ -13,8 +13,7 @@ I am studying the web development and in the future I will apply for the positio
 - CSS3
 
 ###Projects
-- This CV:
-https://hrn9.github.io/rsschool-cv/cv
+- This CV
 
 ###Code example
 ```javascript
