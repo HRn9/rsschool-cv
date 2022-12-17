@@ -8,7 +8,7 @@
 I am studying the web development and in the future I will apply for the position of a frontend developer.
 
 ###Skills
-- Git & Github.
+- Git & Github
 - HTML5
 - CSS3
 
