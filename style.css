@@ -64,6 +64,8 @@ li.pointer {
 	background-color: #8e8675;
 	margin: 20px 150px;
 	padding: 20px;
+	margin-left: auto;
+    margin-right: auto;
 	}
 @media (max-width: 768px) {
 	.section {
@@ -78,8 +80,17 @@ li.pointer {
 	text-align: center;
 }
 .photo{
-	width: 400px;
-    height: 500px;
+	width: 200px;
+    height: 250px;
     background-size: contain;
     background-repeat: no-repeat;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	line-height: 50px;
 }
