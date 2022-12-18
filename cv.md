@@ -24,5 +24,5 @@ console.log('Hello, World!');
 - «JavaScript/Front-end» from RS School.
 
 ###Languages
-- Russian - Native
-- English - A2
+- Russian - Native.
+- English - A2.

@@ -11,34 +11,42 @@ body {
 	flex-direction: column;
 	justify-content: center;
 }
+
 * {
 	box-sizing: border-box;
 }
+
 .header {
 	border: 1px solid black;
 	background-color: #829991;
 }
+
 .main {
 	border: 1px solid black;
 	background-color: #829985;
 }
+
 .footer {
 	border: 1px solid black;
 	background-color: #829991;
 }
+
 .container {
 	max-width: 1440px;
 	margin: 0 auto;
 }
+
 .nav-list {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	list-style: none;
 }
+
 html {
 	scroll-behavior: smooth;
 }
+
 .nav-link {
 	padding: 0 20px;
 	line-height: 50px;
@@ -47,17 +55,21 @@ html {
 	font-size: 32px;
 	transition: .3s;
 }
+
 a:hover {
 	background: #8e8675;
 	color: black;
-  }
+}
+
 li.pointer {
 	cursor: pointer;
 }
+
 .main-container {
 	display: flex;
 	flex-wrap: wrap;
 }
+
 .section {
 	width: 50%;
 	border: 1px solid black;
@@ -66,12 +78,14 @@ li.pointer {
 	padding: 20px;
 	margin-left: auto;
     margin-right: auto;
-	}
+}
+
 @media (max-width: 768px) {
 	.section {
 	  width: 100%;
 	}
-  }
+}
+
 .section-title {
     font-size: 20px;
     font-weight: 600;
@@ -79,6 +93,7 @@ li.pointer {
     color: black;
 	text-align: center;
 }
+
 .photo{
 	width: 200px;
     height: 250px;
@@ -88,12 +103,14 @@ li.pointer {
     margin-left: auto;
     margin-right: auto;
 }
+
 .container-footer {
 	display: flex;
     justify-content: center;
     align-items: center;
 	gap: 150px;
 }
+
 .logoRS {
 	width: 112px;
     height: 40px;
