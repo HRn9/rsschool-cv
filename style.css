@@ -38,7 +38,6 @@ body {
 }
 html {
 	scroll-behavior: smooth;
-	overflow-anchor: none;
 }
 .nav-link {
 	padding: 0 20px;
