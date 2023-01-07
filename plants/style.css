@@ -207,3 +207,111 @@ li {
   height: 479px;
 }
 
+.service {
+  background-color: #EDF2EC;
+  height: 1300px;
+  padding-top: 40px;
+}
+
+.services-wrapper {
+  max-width: 1007px;
+  max-height: 94px;
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.service-text {
+  max-width: 306px;
+  max-height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.service-title {
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+
+  color: #499A18;
+}
+
+.services-btns {
+  max-height: 559px;
+  max-height: 50px;
+}
+
+.service-button {
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #E06733;
+  width: 161px;
+  height: 50px;
+  border: 1px solid #E06733;
+  border-radius: 5px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  margin-right: 38px;
+}
+
+.service-button:last-child {
+  margin-right: 0;
+}
+
+.service-button:hover, .service-button:focus, .service-button:active {
+  color: white;
+  background-color: #E06733;
+}
+
+.cards-wrapper {
+  max-height: 955px;
+  margin-top: 90px;
+  display: grid;
+  grid-template-columns:repeat(3, 330px);
+  row-gap: 55px;
+  column-gap: 117px;
+}
+
+.card-pic {
+  max-height: 350px;
+}
+
+.card-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 330px;
+  max-height: 100px;
+  border: 1px solid #E3E1D5;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.card-title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #E06733;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-desc {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #717171;
+  margin-top: 0px;
+  margin-bottom: 36px;
+}
