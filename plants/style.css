@@ -100,7 +100,7 @@ li {
 }
 
 .welcome {  
-  min-height: 532px;
+  height: 532px;
   background-color: #EDF2EC;
   padding: 62px 109px;
 }
@@ -163,3 +163,47 @@ li {
   color: white;
   background-color: #E06733;
 }
+
+.about {
+  background-color: #FFFFFF;
+  height: 666px;
+  padding: 93px 109px;
+}
+
+.about-wrapper {
+  max-height: 479px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-text {
+  margin-top: 35px;
+  margin-bottom: 20px;
+  max-width: 605px;
+}
+
+.about-title {
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  color: #E06733;
+  max-width: 463px;
+  margin-bottom: 40px;
+}
+
+.about-subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #636060;
+}
+
+.about-pic {
+  width: 464px;
+  height: 479px;
+}
+
