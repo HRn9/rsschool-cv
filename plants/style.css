@@ -442,3 +442,66 @@ li {
   width: 152px;
   height: 175px;
 }
+
+.contacts {
+  height: 550px;
+  background: #EDF2EC;
+  padding-top: 50px;
+}
+
+.contacts-wrapper {
+  height: 500px;
+  display: flex;
+}
+
+.contacts-title {
+  width: 195px;
+  height: 51px;
+  margin-left: 113px;
+  margin-right: 64px;
+}
+
+.contacts-text {
+  margin-top: 10px;
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #499A18;
+}
+
+.contacts-button {
+  margin-top: 98px;
+}
+
+.contacts-btn {
+  width: 450px;
+  height: 50px;
+  background: #D6E7D2;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 0px;
+  border-color: transparent;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 20px;
+}
+
+.contacts-btn-text {
+  width: 204px;
+  height: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 40px;
+  letter-spacing: 0.05em;
+  color: #717171;
+  text-align: left;
+}
+
+.button-pic {
+  margin: 12px 15px;
+}
