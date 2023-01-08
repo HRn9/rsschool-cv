@@ -217,7 +217,6 @@ li {
   max-width: 1007px;
   max-height: 94px;
   display: flex;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   
@@ -314,4 +313,132 @@ li {
   color: #717171;
   margin-top: 0px;
   margin-bottom: 36px;
+}
+
+.prices {
+  background: #FFFFFF;
+  height: 560px;
+}
+
+.prices-wrapper {
+  height: 405px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.prices-options {
+  width: 332px;
+  margin-bottom: 14px;
+}
+
+.prices-text {
+  margin-top: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  width: 135px;
+  height: 49px;
+  margin-bottom: 55px;
+  color: #000000;
+}
+
+.praces-list {
+  width: 332px;
+  height: 282px;
+  padding: 34px 41px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: 1px solid #E3E1D5;
+  border-radius: 20px;
+}
+
+.button-text {
+  width: 100px;
+  height: 18px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  color: #000000;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.prices-button {
+  width: 250px;
+  height: 50px;
+  background: #EDF2EC;
+  border-radius: 20px;
+  margin-bottom: 32px;
+  border-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  cursor: pointer;
+}
+
+.prices-button:last-child {
+  margin-bottom: 34px;
+}
+
+.prices-call-us {
+  width: 452px;
+  height: 405px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.call-us-text {
+  margin-bottom: 38px;
+  width: 452px;
+  height: 103px;
+  padding-top: 0px;
+  width: 452px;
+  height: 103px;
+}
+
+.call-us-title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: right;
+  color: #000000;
+}
+
+.colortextgreen {
+  color: #499A18;
+}
+
+.call-us-botton {
+  width: 162px;
+  height: 50px;
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  color: #E06733;
+  background-color: #FFFFFF;
+  border: 1px solid #E06733;
+  border-radius: 5px;
+  margin-bottom: 39px;
+  cursor: pointer;
+}
+
+.call-us-botton:hover, .call-us-botton:focus, .call-us-botton:active {
+  color: white;
+  background-color: #E06733;
+}
+
+.prices-pic {
+  width: 152px;
+  height: 175px;
 }
