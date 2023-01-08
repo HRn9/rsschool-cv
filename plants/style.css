@@ -37,6 +37,7 @@
 
 html {
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
   *, *::after, *::before {
@@ -98,6 +99,8 @@ li {
 .nav-link:hover, .nav-link:focus, .nav-link:active {
   color: #E06733;
 }
+
+
 
 .welcome {  
   height: 532px;
@@ -504,4 +507,73 @@ li {
 
 .button-pic {
   margin: 12px 15px;
+}
+
+.footer {
+  height: 130px;
+  background: #FFFFFF;
+  padding: 40px;
+}
+
+.footer-wrapper {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-data {
+  width: 182px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.data-text {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 50px;
+  
+  color: #000000;
+  margin-right: 20px;
+}
+
+.data-text:last-child {
+  margin-right: 13px;
+}
+
+.footer-text {
+  width: 211px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 50px;
+  color: #000000;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.footer-list {
+  width: 188px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.social-list {
+  display: flex;
+  margin: 0;
+  padding-left: 0;
+  align-items: center;
+}
+
+.social-item {
+  margin-right: 30px;
+}
+
+.my-github {
+  text-decoration: none;
 }
