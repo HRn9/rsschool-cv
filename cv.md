@@ -22,7 +22,7 @@ https://rolling-scopes-school.github.io/hrn9-JSFEPRESCHOOL2022Q4/
 
 ### Code example
 
-console.log('Hello, World!');
+`console.log('Hello, world!')`
 
 ### Courses
 
