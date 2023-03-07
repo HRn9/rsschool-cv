@@ -5,7 +5,9 @@
 * Discord: high_resistance #4809
 * Telegram: @high_resistance
 
-### About me I am studying the web development and in the future I will apply for the position of a frontend developer.
+### About me 
+
+I am studying the web development and in the future I will apply for the position of a frontend developer.
 
 ### Skills
 
@@ -18,7 +20,7 @@
 
 https://rolling-scopes-school.github.io/hrn9-JSFEPRESCHOOL2022Q4/
 
-###Code example
+### Code example
 
 console.log('Hello, World!');
 
